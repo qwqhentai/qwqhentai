@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ezio Zhang
 
-<!--
-**qwqhentai/qwqhentai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architectural designer and photographer, now building virtual worlds.
 
-Here are some ideas to get you started:
+- **M.S.AUD, UCLA** — Architecture & Urban Design. Film and game work in Unreal Engine.
+- **B.Arch, Syracuse University** — minor in Psychology.
+- Based in Los Angeles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Architecture** — studio projects on how built environments respond to social, environmental and urban change: schools as public space, adaptive reuse, collective housing, urban infrastructure.
+- **Photography** — cities, film, travel.
+- **Virtual worlds** — real-time environments, film and game design.
+
+## Interests
+
+Urban systems · Landscape and climate · Digital tools and AI · Human behavior
